@@ -1,5 +1,7 @@
 ## Welcome to the AeonGlobalHealth Github Page!
 
+To get started, feel free to browse around the various discussions, projects, and repositories.
+
 <!--
 
 **Here are some ideas to get you started:**
